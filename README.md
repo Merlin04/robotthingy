@@ -1,3 +1,5 @@
+<html>
+<body>
 <h1>robotthingy</h1>
 This is a Python robot for Linux. You need to have these packages installed:
 - inxi
@@ -17,3 +19,5 @@ Whenever this script sees one of these keywords, it will do something. Here are 
 - weather: prints the weather on the screen.
 - quit: quits robotthingy.
 - shutdown: runs sudo shutdown -h now.
+</body>
+</html>
