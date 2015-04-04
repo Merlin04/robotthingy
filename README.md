@@ -10,14 +10,14 @@ You will also need the apt package manager for the update capabilities.
 Run this with: 
 python3 robotthingy.py
 <h1>Command keywords</h1>
-Whenever this script sees one of these keywords, it will do something. Here are the keywords:
-time: prints the time on the screen.
-update: runs sudo apt-get update.
-terminal: gives you a command prompt. Note: LXterminal is not working. Just use option 1.
-easter egg: ?????????????
-meow: ?????????????
-weather: prints the weather on the screen.
-quit: quits robotthingy.
-shutdown: runs sudo shutdown -h now.
+<p>Whenever this script sees one of these keywords, it will do something. Here are the keywords:\n
+time: prints the time on the screen.\n
+update: runs sudo apt-get update./n
+terminal: gives you a command prompt. Note: LXterminal is not working. Just use option 1.\n
+easter egg: ?????????????\n
+meow: ?????????????\n
+weather: prints the weather on the screen.\n
+quit: quits robotthingy.\n
+shutdown: runs sudo shutdown -h now.\n
 </body>
 </html>
