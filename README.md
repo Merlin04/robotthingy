@@ -6,7 +6,6 @@ This is a Python robot for Linux. You need to have these packages installed:
 - python3
 - espeak
 You will also need the apt package manager for the update capabilities.
-## How to run
 
 Run this with: 
 python3 robotthingy.py
