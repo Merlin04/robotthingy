@@ -5,6 +5,7 @@ This is a Python robot for Linux. You need to have these packages installed:
 - inxi
 - python3
 - espeak
+
 You will also need the apt package manager for the update capabilities.
 
 Run this with: 
